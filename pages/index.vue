@@ -11,7 +11,7 @@
         :location="location.name"
         />
     </div>
-</template>
+</template> 
 <script lang="ts" setup>
 
     type CharactersResults = {
